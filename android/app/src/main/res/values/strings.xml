@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_label">IP Changer</string>
+    <string name="accessibility_service_description">Lets IP Changer switch mobile data off and on for you, so your mobile network gives you a new IP address. It only acts on the mobile data switch, and only when you tap Change IP.</string>
+</resources>
